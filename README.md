@@ -2,7 +2,7 @@
 # IMPLEMENTATION OF SYMBOL TABLE 
 ## Name : Prajin S
 ## Register Number : 212223230151
-## Date : 19-05-2025
+## Date : 19-05-2026
 
 ## AIM   
 To write a C program to implement a symbol table.
